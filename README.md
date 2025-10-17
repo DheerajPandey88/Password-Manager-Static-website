@@ -27,14 +27,9 @@ It’s a front-end only (static) project — ideal for practicing client-side se
 ✅ View or hide stored passwords  
 ✅ Copy passwords to clipboard easily  
  
-
 ---
 
 ## 🖼️ Screenshots
 
 ### 💻 Main Interface
-![Password Manager UI]()
-
-
-## 📂 Project Structure
-
+![Password Manager UI](https://github.com/DheerajPandey88/Password-Manager-Static-website/blob/84bc3eaad8c8dd1d87558bedfaed0d3078e49e91/Screenshot%202025-10-17%20021625.png)
